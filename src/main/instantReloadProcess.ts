@@ -22,6 +22,8 @@ const watchFileExtensions = [
 	'jpeg',
 	'gif',
 	'png',
+	'js',
+	'php',
 ];
 
 
