@@ -4,7 +4,7 @@
 <path d="M11.1 9.10005C11.1 10.1 10.3 10.9 9.3 10.9C8.3 10.9 7.5 10.1 7.5 9.10005C7.5 8.10005 8.3 7.30005 9.3 7.30005C10.3 7.30005 11.1 8.10005 11.1 9.10005Z" fill="white"/>
 <path d="M17.4 9.10005C17.4 10.1 16.6 10.9 15.6 10.9C14.6 10.9 13.8 10.1 13.8 9.10005C13.8 8.10005 14.6 7.30005 15.6 7.30005C16.6 7.30005 17.4 8.10005 17.4 9.10005Z" fill="white"/>
 <path d="M23.6 9.10005C23.6 10.1 22.8 10.9 21.8 10.9C20.8 10.9 20 10.1 20 9.10005C20 8.10005 20.8 7.30005 21.8 7.30005C22.9 7.30005 23.6 8.10005 23.6 9.10005Z" fill="white"/>
-<path d="M41.5999 23.9L40.7 29.2" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-dasharray="31 31"/>
-<path d="M35.8 29.2001H40.7001" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-dasharray="31 31"/>
-<path d="M41.0001 38C39.5001 41.6 35.9001 44.2 31.7001 44.2C26.1001 44.2 21.6001 39.7 21.6001 34.1C21.6001 28.5 26.1001 24 31.7001 24C35.6001 24 38.9001 26.2 40.6001 29.4" stroke="#000000" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M41.5999 23.9L40.7 29.2" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-dasharray="31 31"/>
+<path d="M35.8 29.2001H40.7001" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-dasharray="31 31"/>
+<path d="M41.0001 38C39.5001 41.6 35.9001 44.2 31.7001 44.2C26.1001 44.2 21.6001 39.7 21.6001 34.1C21.6001 28.5 26.1001 24 31.7001 24C35.6001 24 38.9001 26.2 40.6001 29.4" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
 </svg>
