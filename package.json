@@ -1,12 +1,12 @@
 {
   "name": "@getflywheel/local-addon-instant-reload",
-  "productName": "Instant Reload",
+  "productName": "Cog fork - Instant Reload",
   "version": "1.1.2",
   "author": "Local Team Cog Fork",
   "keywords": [
     "local-addon"
   ],
-  "bgColor": "#51bb7b",
+  "bgColor": "#ffb800",
   "icon": "icon.svg",
   "slug": "local-addon-instant-reload",
   "description": "A Local addon that provides live browser reloading while developing WordPress sites.",

@@ -2,6 +2,16 @@
 
 Follow the installation instructions below to use this version.
 
+```
+Clone the repository into one of the following directories depending on your platform:
+
+-   macOS: `~/Library/Application\ Support/Local/addons`
+-   Windows: `C:\Users\username\AppData\Roaming\Local\addons`
+-   Linux: `~/.config/Local/addons`
+```
+Then Yarn install in this directory and restart local, the add on should be available. 
+
+
 # Original README.md
 
 A [Local](https://localwp.com/) add on that introduces live browser reloading while developing your WordPress site. This repository hosts the source code; if you simply want to use the add-on, download the latest version of local from [the release page](https://localwp.com/releases/) and install the add-on within the app.
